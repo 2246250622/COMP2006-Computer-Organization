@@ -1,2 +1,18 @@
-test
-d
+Title (Units): COMP2006 Computer Organization (3,3,1)
+Course Aims: To introduce the organization of digital computers, the different components and
+their basic principles and operations.
+Prerequisite: Nil
+Course Intended Learning Outcomes (CILOs):
+Upon successful completion of this course, students should be able to:
+No. Course Intended Learning Outcomes (CILOs)
+Knowledge
+1 Describe various data representations and explain how arithmetic and logical operations are
+performed by computers
+2 Describe organization of digital computers and explain the basic principles and operations of
+different components
+3 Evaluate the performance of CPU, memory and I/O operations
+Professional Skill
+4 Design a basic computer system using the major components
+5 Write low-level programs to perform different basic instructions
+Calendar Description: This course introduces the organization of digital computers, the different
+components and their basic principles and operations.
